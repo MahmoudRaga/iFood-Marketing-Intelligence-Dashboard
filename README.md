@@ -85,7 +85,7 @@ The dashboard is structured into **4 main pages**:
 
 **Mahmoud Ragab**  
 Machine Learning Engineer & Data Analyst  
-[LinkedIn](https://www.linkedin.com/in/mahmmou_dragab) | [GitHub](https://github.com/mahmmoudragab)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-ragab-0842511b7/) | [GitHub](https://github.com/MahmoudRaga)
 
 ---
 
